@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkV5qNgY9Qw/r4pSbw3isbGKPDQGAA84at7BCPpccVmk6WIGLJN5Qd2+IC6AaecX3n/VbjLOidWV37/HtCG1AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NAZARBEK\\Desktop\\Geometry-master\\Geometry\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NAZARBEK\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\NAZARBEK\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\NAZARBEK\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\NAZARBEK\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\NAZARBEK\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\NAZARBEK\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\NAZARBEK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
